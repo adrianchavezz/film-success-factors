@@ -1,2 +1,3 @@
 # film-success-factors
-Write up for Film Success Factors: A Statistical Analysis project.
+In this project me and three others were tasked with derriving insights from a raw movie data set with over 4,700+ films to come up with recommendations for film investors to make a smash hit in the box office. The data included information on budget, box-office revenue, genre, release timing, and sequel/remakes. I utilized Excel and Tableau to create visualizations of the cleaned data to clearly explain the story of the data which told that Low Budget horror films yielded the highest ROI, sequels and remakes return a much higher ROI and hit rate, and the times of the year that have the highest hit rates and ROI. For low budget horror films specically, they double the hit rate and produce average ROI upwards of 4,000%. 
+The full write up is in the PDF and explains further.
